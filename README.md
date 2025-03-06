@@ -16,8 +16,7 @@ This repository contains the **technical documentation** for the **Imelda Univer
 
 ## 🛠 Technologies Used  
 - **SQL Server Management Studio (SSMS)**  
-- **MySQL Server**  
-- **Stored Procedures, Triggers, Indexing**  
+- **Stored Procedures, Triggers, Indexing, Full text search, Audit trail**  
 
 ## 📖 Documentation  
 For a detailed breakdown of the project, refer to the [PDF Documentation](./Imelda_University_DB.pdf).  

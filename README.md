@@ -5,7 +5,7 @@ Database optimization and implementation for Imelda University.
 This repository contains the **technical documentation** for the **Imelda University Database System**. The project focuses on optimizing database performance, automating tasks, and improving data integrity.  
 
 ## 📂 Contents  
-- **[Imelda_University_Db.pdf](./)** – Full documentation of the system.  
+- **[https://github.com/Tayeteni/Imelda-university-db-sql/blob/main/Imelda%20university%20DB.pdf)** – Full documentation of the system.  
 - **README.md** – Overview of the project.  
 
 ## 📌 Key Features  

@@ -27,9 +27,11 @@ If you're looking to understand or extend the system, review the documentation a
 ### 📊 What's Next?  
 After reviewing the documentation, proceed to the **SQL scripts** for database setup, triggers, and stored procedures:  
 
-- [📜 Database Setup](./database_setup.sql)  
-- [📜 Triggers](./triggers.sql)  
-- [📜 Stored Procedures](./stored_procedures.sql)  
+- 📜 **[Database Schema](https://github.com/Tayeteni/Imelda-university-db-sql/blob/main/DDL%20Database%20schema.sql)** – Table creation  
+- ⚡ **[Database Operations](https://github.com/Tayeteni/Imelda-university-db-sql/blob/main/DML%20Database%20Operations.sql)** – Automations on data changes  
+- 🔄 **[Trigger/indexes/Stored Procedures/Full text search](https://github.com/Tayeteni/Imelda-university-db-sql/blob/main/Trigger%20and%20Stored%20Procedure%20%20%20.sql)** – Predefined SQL operations  
+- 📊 **[Audit Trail](https://github.com/Tayeteni/Imelda-university-db-sql/blob/main/Students_Audit_TRail.sql)** – Track database changes  
+- 🔎 **[Testing optimization](https://github.com/Tayeteni/Imelda-university-db-sql/blob/main/Testing%20Optimization%20methods.sql)** – Advanced text search
 
 For better understanding, refer to the **Entity-Relationship Diagram (ERD)**:  
 - [🖼️ ERD Diagram](./ImeldaUniversity_ERD.png)  

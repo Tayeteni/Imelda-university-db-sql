@@ -34,5 +34,5 @@ After reviewing the documentation, proceed to the **SQL scripts** for database s
 - 🔎 **[Testing optimization](https://github.com/Tayeteni/Imelda-university-db-sql/blob/main/Testing%20Optimization%20methods.sql)** – Advanced text search
 
 For better understanding, refer to the **Entity-Relationship Diagram (ERD)**:  
-- [🖼️ ERD Diagram](./ImeldaUniversity_ERD.png)  
+- [🖼️ ERD Diagram]([./ImeldaUniversity_ERD.png](https://github.com/Tayeteni/Imelda-university-db-sql/blob/main/ERD%20.pdf))  
   
